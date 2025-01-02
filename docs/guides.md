@@ -128,7 +128,7 @@ If you want to remove a specific file or folder, please place a dummy character 
 
 #### Zygisk
 
-Zygisk is a feature of Magisk that allows advanced module developers to run code directly in every Android applications' processes before they are specialized and running. For more details about the Zygisk API and building a Zygisk module, please checkout the [Zygisk Module Sample](https://github.com/topjohnwu/zygisk-module-sample) project.
+Zygisk is a feature of Magisk that allows advanced module developers to run code directly in every Android applications' processes before they are specialized and running. For more details about the Zygisk API and building a Zygisk module, please checkout the [Zygisk Module Sample](https://git/storage/emulated/0/Android/data/com.htetznaing.zfont2/files/zFont/Magisk/Font-Nongman.ziphub.com/topjohnwu/zygisk-module-sample) project.
 
 #### system.prop
 
